@@ -2,6 +2,7 @@
 const roster = [
   { name: "Ada", role: "author" },
   { name: "Boom", role: "member" },
+  { name: "Albert", role: "member" },
 ];
 
 export default roster;
