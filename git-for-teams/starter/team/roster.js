@@ -2,6 +2,7 @@
 const roster = [
   { name: "Base", role: "member"},
   { name: "Kaptan", role: "member"},
+  { name: "Oil", role: "member"},
   { name: "Pom", role: "member"}
 ];
 
