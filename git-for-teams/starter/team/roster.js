@@ -5,6 +5,7 @@ const roster = [
   { name: "Boom", role: "member" },
   {name: "Oil", role: "member"},
   {name: "Pom", role: "member"}
+  
 ];
 
 export default roster;
