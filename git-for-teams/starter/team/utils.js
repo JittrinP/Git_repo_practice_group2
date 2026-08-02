@@ -3,8 +3,4 @@ function capitalize(word) {
   return word[0].toUpperCase() + word.slice(1);
 }
 
-function shout(word) {
-  return word.toUpperCase();
-}
-
-export { capitalize, shout };
+export { capitalize };
