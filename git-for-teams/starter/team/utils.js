@@ -7,4 +7,4 @@ function shout(word) {
   return word.toUpperCase();
 }
 
-export { capitalize };
+export { capitalize, shout };
