@@ -4,3 +4,5 @@ function formatOldDate(str) {
 }
 
 export { formatOldDate };
+
+console.log("Hello im B");
