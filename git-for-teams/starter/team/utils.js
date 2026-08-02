@@ -4,7 +4,11 @@ function capitalize(word) {
 }
 
 function shout(word) {
-  return word[0].toUpperCase();
+  return word.toUpperCase();
 }
 
-export { capitalize ,shout };
+function whisper(word) {
+  return word.toLowerCase();
+}
+
+export { capitalize, whisper, shout };
